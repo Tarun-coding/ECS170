@@ -11,3 +11,4 @@ ex: java Main -p1 alphabeta_916065016
 AStar:
 In order to test the division heuristic use the command:
 java Main MtStHelens_916065016
+The detailed explanation for the different heuristics are in the pdf provided 
