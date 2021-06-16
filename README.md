@@ -7,3 +7,7 @@ ex: java Main -p1 alphabeta_916065016 -p2 StupidAI
 
 if you leave either player one or player two as blank, it will allow the user to play with the AI instead
 ex: java Main -p1 alphabeta_916065016
+
+AStar:
+In order to test the division heuristic use the command:
+java Main MtStHelens_916065016
